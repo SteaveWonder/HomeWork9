@@ -34,7 +34,7 @@ void SumNums(int number1, int number2, int sum)
 }
 SumNums(number1, number2, 0);
 
-*/
+
 
 // Задача 68: Напишите программу вычисления функции Аккермана с помощью рекурсии. Даны два неотрицательных числа m и n.
 
@@ -53,3 +53,5 @@ int TheAkermans(int Levi, int Mikasa)
 }
 
 Console.WriteLine($"Akkermans for digits A({Levi},{Mikasa}) = {TheAkermans(Levi, Mikasa)}");
+
+*/
